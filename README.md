@@ -16,5 +16,5 @@ CREATE TABLE `expertinfo` (
 
 Once you have cloned run following commands in terminal:
 
-npm install or npm i 
+npm install or npm i, 
 nodemon script.js
